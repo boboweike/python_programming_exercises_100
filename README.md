@@ -1,4 +1,6 @@
-# Python 编程练习 100 题
+# 100 Python Programming Practice 100 Examples
+
+[English Version](README.en.md)
 
 - 01 - 检查数字 [B 站视频](https://www.bilibili.com/video/BV1GS421w7uL), [讲稿](ex01/script.md)
 - 02 - 求 n 的阶乘 [B 站视频](https://www.bilibili.com/video/BV1qr421W72r), [讲稿](ex02/script.md)
