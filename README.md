@@ -14,6 +14,7 @@
 - 12 - 找出每一位都是偶数的数字 [B 站视频](https://www.bilibili.com/video/BV1Di421d7cW), [讲稿](ex12/script.md)
 - 13 - 对句子中的字母和数字进行计数 [B 站视频](https://www.bilibili.com/video/BV1Ut421L76T), [讲稿](ex13/script.md)
 - 14 - 对句子中的大小写字母进行计数 [B 站视频](https://www.bilibili.com/video/BV1pK421x7Wd), [讲稿](ex14/script.md)
+- 15 - 计算 a+aa+aaa+aaaa [B 站视频](https://www.bilibili.com/video/BV1JZ421h7FT), [讲稿](ex15/script.md)
 
 ## 参考+感谢
 
