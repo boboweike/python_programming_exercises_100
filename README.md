@@ -2,6 +2,8 @@
 
 [English Version](README.en.md)
 
+## 中文版
+
 - 01 - 检查数字 [B 站视频](https://www.bilibili.com/video/BV1GS421w7uL), [讲稿](ex01/script.md)
 - 02 - 求 n 的阶乘 [B 站视频](https://www.bilibili.com/video/BV1qr421W72r), [讲稿](ex02/script.md)
 - 03 - 生成字典(dictionary) [B 站视频](https://www.bilibili.com/video/BV1vK42147vh), [讲稿](ex03/script.md)
@@ -11,6 +13,7 @@
 - 11 - 找出能被 5 整除的二进制数 [B 站视频](https://www.bilibili.com/video/BV1H2421T7zn), [讲稿](ex11/script.md)
 - 12 - 找出每一位都是偶数的数字 [B 站视频](https://www.bilibili.com/video/BV1Di421d7cW), [讲稿](ex12/script.md)
 - 13 - 对句子中的字母和数字进行计数 [B 站视频](https://www.bilibili.com/video/BV1Ut421L76T), [讲稿](ex13/script.md)
+- 14 - 对句子中的大小写字母进行计数 [B 站视频](https://www.bilibili.com/video/BV1pK421x7Wd), [讲稿](ex14/script.md)
 
 ## 参考+感谢
 
