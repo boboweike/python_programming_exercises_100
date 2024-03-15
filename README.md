@@ -16,7 +16,7 @@
 - 14 - 对句子中的大小写字母进行计数 [B 站视频](https://www.bilibili.com/video/BV1pK421x7Wd), [讲稿](ex14/script.cn.md)
 - 15 - 计算 a+aa+aaa+aaaa [B 站视频](https://www.bilibili.com/video/BV1JZ421h7FT), [讲稿](ex15/script.cn.md)
 - 16 - 使用列表推导式找出奇数并计算平方 [B 站视频](https://www.bilibili.com/video/BV1or421J7Dt), [讲稿](ex16/script.cn.md)
-- 17 - 根据交易记录计算净净金额 [B 站视频](https://www.bilibili.com/video/BV1Ru4m1M7sY), [讲稿](ex17/script.cn.md)
+- 17 - 根据交易记录计算净金额 [B 站视频](https://www.bilibili.com/video/BV1Ru4m1M7sY), [讲稿](ex17/script.cn.md)
 
 ## 参考+感谢
 
